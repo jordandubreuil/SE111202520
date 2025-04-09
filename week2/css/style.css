@@ -43,3 +43,8 @@ a:hover{
 #footer{
     text-align: center;
 }
+
+#greeting{
+    display: block; 
+    text-align: center;
+}
