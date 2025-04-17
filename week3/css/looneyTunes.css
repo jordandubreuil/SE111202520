@@ -121,3 +121,12 @@ ul {
     color: black;
     text-decoration: none;
 }
+/* Styling for character page */
+.characters{
+    text-align: left;
+}
+
+.p-character{
+    display:inline-block;
+    width: 350px;
+}
